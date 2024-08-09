@@ -1,9 +1,7 @@
-package main;
+package main
 
-import (
-    "exercises/ex1"
-)
+import "exercises/ex2"
 
 func main() {
-	ex1.Exercise();
+	ex2.Exercise()
 }
