@@ -1,7 +1,7 @@
 package main
 
-import "exercises/ex3"
+import "exercises/Pointers"
 
 func main() {
-	ex3.Exercise()
+	concepts.General()
 }
