@@ -1,6 +1,8 @@
 package main;
 import "fmt";
 
+//Create a function swap that takes two pointers to integers and swaps their values.
+
 func swapping(x *int, y *int){
 	aux:=*x;
 	*x = *y;
